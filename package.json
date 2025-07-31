@@ -1,0 +1,24 @@
+{
+  "name": "js-dsa",
+  "version": "1.0.0",
+  "description": "notes for JS DSA with examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathish-repos/JS-DSA.git"
+  },
+  "keywords": [
+    "notes",
+    "DSA",
+    "JS"
+  ],
+  "author": "sathish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathish-repos/JS-DSA/issues"
+  },
+  "homepage": "https://github.com/sathish-repos/JS-DSA#readme"
+}
